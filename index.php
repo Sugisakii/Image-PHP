@@ -37,7 +37,7 @@ else if(isset($_POST['b']))
 </head>
 <body>
 	<form method="post">
-		<label>Introduce la base;</label><br>
+		<label>Tasa del dia;</label><br>
 		<input type="text" name="b"/><br>
 		<button type="Submit">Guardar</button>
 	</form>
